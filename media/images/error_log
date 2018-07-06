@@ -1,0 +1,10 @@
+[10-Dec-2017 19:16:50 UTC] PHP Fatal error:  Call to undefined function phpdefined() in /home/vinayatours11/public_html/application/modules/welcome/views/goa_package.php on line 1
+[10-Dec-2017 19:17:48 UTC] PHP Fatal error:  Call to undefined function phpdefined() in /home/vinayatours11/public_html/application/modules/welcome/views/goa_package.php on line 1
+[10-Dec-2017 19:17:51 UTC] PHP Fatal error:  Call to undefined function phpdefined() in /home/vinayatours11/public_html/application/modules/welcome/views/goa_package.php on line 1
+[10-Dec-2017 19:18:02 UTC] PHP Fatal error:  Call to undefined function phpdefined() in /home/vinayatours11/public_html/application/modules/welcome/views/goa_package.php on line 1
+[10-Dec-2017 19:20:05 UTC] PHP Fatal error:  Call to undefined function phpdefined() in /home/vinayatours11/public_html/application/modules/welcome/views/goa_package.php on line 1
+[10-Dec-2017 19:22:10 UTC] PHP Fatal error:  Call to undefined function phpdefined() in /home/vinayatours11/public_html/application/modules/welcome/views/gallery.php on line 1
+[10-Dec-2017 19:22:12 UTC] PHP Fatal error:  Call to undefined function phpdefined() in /home/vinayatours11/public_html/application/modules/welcome/views/gallery.php on line 1
+[10-Dec-2017 19:22:21 UTC] PHP Fatal error:  Call to undefined function phpdefined() in /home/vinayatours11/public_html/application/modules/welcome/views/gallery.php on line 1
+[10-Dec-2017 19:23:59 UTC] PHP Fatal error:  Call to undefined function phpdefined() in /home/vinayatours11/public_html/application/modules/welcome/views/gallery.php on line 1
+[10-Dec-2017 19:24:23 UTC] PHP Fatal error:  Call to undefined function phpdefined() in /home/vinayatours11/public_html/application/modules/welcome/views/goa_package.php on line 1
